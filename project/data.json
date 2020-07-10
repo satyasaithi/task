@@ -1,0 +1,46 @@
+{
+	"details": {
+		"name": "satya",
+		"number": "xxxxxxxx",
+		"email": "s160610@rguktsklm.ac.in",
+		"address": "vishakapatnam"
+	},
+	"careerobjective": {
+		"info": "To become a full STACK developer"
+	},
+	"educationalqualification": [
+		{
+			"institute": "RGUKT srikakulam",
+			"degree": "B.tech",
+			"passoutyear": "Persuing",
+			"percentage": "87%"
+		},
+		{
+			"institute": "RGUKT srikakulam",
+			"degree": "Intermediate",
+			"passoutyear": "2018",
+			"percentage": "85%"
+		},
+		{
+			"institute": "Z.P.H.S Golzam",
+			"degree": "ssc",
+			"passoutyear": "2016",
+			"percentage": "97%"
+		}
+	],
+	"technicalskills":[{
+	        "title":"Programming language",
+	        "info":["java,c,python,R"]
+
+		},
+		{
+			"title":"datbases",
+			"info":["oracle,mysql,mongo"]
+		},
+		{
+			"title":"Operating Systems",
+			"info":["windows,ubuntu,linux"]
+		}
+		
+	]
+}
